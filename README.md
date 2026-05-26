@@ -138,9 +138,3 @@ Runs on → `http://localhost:3000`
 ## Note
 
 This is a learning project built while exploring TypeScript and backend development concepts for the first time.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
